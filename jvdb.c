@@ -7,7 +7,10 @@ int main(int argc,char *argv[]){
     char *operacion = argv[1];
     char *basededatos = argv[2];
     char *coleccion = argv[3];
+    /*
     
+            jvdb.exe[operacion][basededatos][coleccion][operacion][documento][contenido]
+    */
     
     
     
