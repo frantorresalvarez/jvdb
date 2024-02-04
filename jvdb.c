@@ -7,5 +7,5 @@ int main(){
     fputs(texto,archivo);
     fclose(archivo);
     printf("JVDB");
-    return 0;
+    return 0; 
 }
